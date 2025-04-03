@@ -69,8 +69,6 @@ public void lutar(){
 
 
 
-
-
 public Lutador getdesafiado(){
     return desafiado;
 
